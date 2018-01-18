@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">一步之遥</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_choose">ChooseActivity</string>
+    <string name="choose">现在，想去哪儿？</string>
+    <string name="bus">公交站</string>
+    <string name="stop">停止导航</string>
+    <string name="rightnow">点击浮标开启导航</string>
+    <string name="title_activity_culmen">CulmenActivity</string>
+    <string name="eat">美食</string>
+    <string name="buy">购物</string>
+    <string name="sport">运动</string>
+    <string name="movie">电影</string>
+    <string name="hospita">医疗</string>
+    <string name="hotal">酒店</string>
+    <string name="fengjing">名胜</string>
+    <string name="book">科教</string>
+    <string name="park">停车</string>
+    <string name="bank">银行</string>
+    <string name="atm">取款</string>
+    <string name="gongce">卫生</string>
+    <string name="buss">交通</string>
+    <string name="we">关于我们</string>
+    <string name="fun">娱乐</string>
+    <string name="more">敬请期待后续更多功能推出!</string>
+    <string name="navi_start">"起    点"</string>
+    <string name="navi_end">"终    点"</string>
+    <string name="start_navi_navi">实时导航</string>
+    <string name="title_activity_about">关于我们</string>
+
+</resources>
